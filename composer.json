@@ -1,5 +1,5 @@
 {
-    "name": "symfony-cmf/create-bundle",
+    "name": "robtec20/create-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Bundle for createphp and create.js. The easiest way to make any site editable and have semantic annotations with RDFa.",
     "license": "MIT",
